@@ -58,7 +58,7 @@ def search_and_include_pages(input_pdf, output_pdf, search_word):
             print(f"Error in search_and_include_pages: {str(e)}")
 
 def main():
-    input_pdf = "/Users/pc/Desktop/code/Meren pdf/Pages From giris.pdf"
+    input_pdf = "YourFile.pdf"
     search_word = "unisex"
     output_pdf_deleted = os.path.join(os.path.dirname(input_pdf), "edited.pdf")
     output_pdf_included = os.path.join(os.path.dirname(input_pdf), "included.pdf")
