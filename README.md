@@ -35,7 +35,7 @@ Examples:
 - Merge multiple PDF files into a single document
 - Split a PDF into individual pages
 - Extract text content from PDF files
-- [Add any additional features your script provides]
+
 
 ## Contributing
 Contributions to MerenPdf are welcome! Please feel free to submit a Pull Request.
