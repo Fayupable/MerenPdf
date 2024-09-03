@@ -8,14 +8,15 @@ MerenPdf is a Python-based tool for processing PDF files using the PyPDF2 librar
 
 ### Create a virtual environment
 
-bash
+```bash
 python -m venv venv
-source venv/bin/activate # On Windows, use venv\Scripts\activate
-
+source venv/bin/activate  # On Windows, use venv\Scripts\activate
+```
 
 ### Install dependencies
-bash
+```bash
 pip install PyPDF2
+```
 
 
 
